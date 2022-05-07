@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BankLine Santander</string>
+    <string name="welcome_to_your_online_banking">Welcome to your online banking!</string>
+    <string name="insert_your_id_here">Insert your id here</string>
+    <string name="continue_bt_value">Continue</string>
+    <string name="account_image">account image</string>
+</resources>
